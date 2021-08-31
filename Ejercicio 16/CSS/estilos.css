@@ -1,0 +1,33 @@
+table {
+    margin: 0 auto;
+    width: 50%;
+    border-spacing: 0;
+    border: 5px ridge #FFFFCC;
+    text-align: center;
+    color: #690F2A;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.celda{
+    background-color: #FEFF99;
+}
+
+td{
+    border: 2px ridge white;
+}
+
+.titulo{
+    background-color: #669966;
+}
+
+.fila1{
+    background-color: #FFCC99;
+}
+
+.fila2{
+    background-color: #FFFF99;
+}
+
+.print{
+    background-color: #FFFFCC;
+}
