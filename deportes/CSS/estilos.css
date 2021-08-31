@@ -1,0 +1,29 @@
+table {
+    margin: 0 auto;
+    width: 50%;
+    border: 3px outset white;
+    border-spacing: 0;
+}
+
+.titulos{
+    color: #CCFFCC;
+    text-align: center;
+    background-color: #003333;
+}
+
+th {
+    color: #CCFFCC;
+    background-color: #003333;
+}
+
+th, td {
+    border: 2px groove #74C7E2;
+}
+
+.td1{
+    background-color: #CCFFCC;
+}
+
+.td2{
+    background-color: #99CC99;
+}
