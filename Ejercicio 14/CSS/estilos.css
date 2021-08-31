@@ -1,0 +1,26 @@
+table {
+    margin: 0;
+    width: 50%;
+    border: 3px outset white;
+    border-spacing: 0;
+    font-weight: bold;
+    border: 5px ridge white;
+    text-align: center;
+    top: 30%;
+    left: 25%;
+    position: absolute;
+}
+
+.celda{
+    background-color: #FEFF99;
+}
+
+td{
+    border: 2px ridge white;
+}
+
+body{
+    background-image: url("../Penguins.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+}
